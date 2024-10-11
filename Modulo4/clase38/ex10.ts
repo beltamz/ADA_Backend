@@ -1,0 +1,2 @@
+let object1 : {animal:string, age: number, isExtinct : boolean}= {animal:'Leopard', age: 13, isExtinct: false};
+console.log(`More information about the ${object1.animal}: \n Age: ${object1.age} \n Is it extinct? ${object1.isExtinct}`);
